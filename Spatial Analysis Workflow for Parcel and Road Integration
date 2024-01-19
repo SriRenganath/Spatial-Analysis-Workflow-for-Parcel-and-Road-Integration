@@ -1,7 +1,7 @@
 import arcpy
 
 # Set workspace
-arcpy.env.workspace = r"C:\Path\To\Your\Workspace.gdb"
+arcpy.env.workspace = r"F:\Captures\Parcel_R0ad\Workspace.gdb"
 
 # Input data
 parcels = "Parcels"
